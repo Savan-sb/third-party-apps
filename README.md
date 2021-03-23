@@ -1,2 +1,2 @@
 # third-party-apps
-installing thrird party apps 
+installing third party apps 
