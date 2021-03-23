@@ -1,0 +1,3 @@
+UID : TA005
+URL : https://dl.pstmn.io/download/latest/linux64
+Version : 8.0.7
